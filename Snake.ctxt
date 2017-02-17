@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Snake()
+comment1.params=theName
+comment1.target=Snake(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=java.lang.String\ showColor()
+numComments=4
