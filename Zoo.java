@@ -13,7 +13,7 @@ public class Zoo
     public Zoo()
     {
         theZoo = new Pet[40];
-        theZoo[0] = new Pet("boring pet");
+        theZoo[0] = new Snake("Mark");
         theZoo[1] = new Pet("boring pet");
         theZoo[2] = new Pet("boring pet");
         theZoo[3] = new Pet("boring pet");
