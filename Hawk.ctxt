@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hawk()
+comment1.params=n
+comment1.target=Hawk(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ speak()
+numComments=3
