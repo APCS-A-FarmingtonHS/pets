@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cow()
+comment1.params=name
+comment1.target=Cow(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=void\ changecolor()
+numComments=4
